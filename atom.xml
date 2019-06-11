@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dimdoremy.github.io/</id>
     <title>DimDoremy的blog</title>
-    <updated>2019-06-11T12:51:09.409Z</updated>
+    <updated>2019-06-11T12:55:32.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimdoremy.github.io/"/>
     <link rel="self" href="https://dimdoremy.github.io//atom.xml"/>
-    <subtitle>摸鱼、摸鱼、摸鱼</subtitle>
+    <subtitle>摸鱼、摸鱼、摸鱼，永无止境orz</subtitle>
     <logo>https://dimdoremy.github.io//images/avatar.png</logo>
     <icon>https://dimdoremy.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, DimDoremy的blog</rights>
